@@ -1,0 +1,41 @@
+{
+  "navigation": {
+    "summary": "Project summary",
+    "advancedSearch": "Advanced Search",
+    "search": "Search..."
+  },
+  "news": {
+    "placeholderText": "This text is visible because the API used is very inaccurate and deficient. It often returns key fields empty, hence the need to write this text because I hope it will look better than the usual lorem ipsum. I could quote the recipe for bigos, but I think I have enough characters already."
+  },
+  "exchangeRates": {
+    "title": "Exchange rates",
+    "currency": "Currency"
+  },
+  "homePage": {
+    "popularPosts": "Popular posts",
+    "latestVideos": "Latest videos",
+    "otherPosts": "Other posts"
+  },
+  "footer": {
+    "newsNumber": "Total number of news:",
+    "currentTime": "Current date and time"
+  },
+  "savedPage": {
+    "savedArticles": "Saved Articles",
+    "savedVideos": "Saved Videos"
+  },
+  "modalNews": {
+    "authorNote":"Note from the author: Most of the photos shown in the news come from the api generating random answers, this is due to the fact that the newsapi.org used is very limited, often returning incomplete data. Hence, the content is often limited to the text I created. While creating, I focused on a variety of functionalities and despite the fact that the news API is very limited, I decided to squeeze the best out of it. Unfortunately, due to this fact, there were no tests and something I regret the most, order in the code",
+    "greatestDifficulty": "The biggest challenge in this project was time. I had a very busy week at the company and in fact the whole project was based on one marathon. In addition, I partly puzzled over how to ensure the possibility of pasting a ready-made link into the browser, so that it would take us to the same results as the person who sent us this link.",
+    "greatestFun": "The marathon was the most fun for me. Going from zero to hero in such a short amount of time is quite a feat. I also used the i18n library for the first time, which showed me its great potential."
+  },
+  "category": {
+    "general": "General",
+    "business": "Business",
+    "entertainment": "Entertainment",
+    "health": "Health",
+    "science": "Science",
+    "sports": "Sports",
+    "technology": "Technology"
+  }
+}

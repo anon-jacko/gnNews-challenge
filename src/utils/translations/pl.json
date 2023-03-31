@@ -1,0 +1,41 @@
+{
+  "navigation": {
+    "summary": "Podsumowanie projektu",
+    "advancedSearch": "Advanced Search",
+    "search": "Wyszukaj..."
+  },
+  "news": {
+    "placeholderText": "Ten tekst jest widoczny, ponieważ wykorzystywane API jest bardzo niedokładne i wybrakowane. Często zwraca kluczowe pola puste, stąd potrzeba napisania tego tekstu bo liczę, że będzie wyglądał lepiej niż zwykłe lorem ipsum. Mógłbym zacytować przepis na bigos, ale chyba mam już wystarczająco znaków."
+  },
+  "exchangeRates": {
+    "title": "Kursy walut",
+    "currency": "Waluta"
+  },
+  "homePage": {
+    "popularPosts": "Popularne newsy",
+    "latestVideos": "Najnowsze filmy",
+    "otherPosts": "Pozostałe newsy"
+  },
+  "footer": {
+    "newsNumber": "Całkowita liczba newsów:",
+    "currentTime": "Aktualna data i godzina"
+  },
+  "savedPage": {
+    "savedArticles": "Zapisane newsy",
+    "savedVideos": "Zapisane filmy"
+  },
+  "modalNews": {
+    "authorNote": "Notka od autora: Większość zdjęć pokazywanych w newsach pochodzi z api generującego losowe odpowiedzi, wynika to z tego, że użyte newsapi.org jest bardzo ograniczone, często zwraca niekompletne dane. Stąd również często content ograniczony jest do stworzonego przeze mnie tekstu. Podczas tworzenia postawiłem na różnorodność funkcjonalności i pomimo, że API z newsami jest bardzo ograniczone, postanowiłem wycisnąć z niego co tylko możliwe. Niestety przez ten fakt zabrakło testów oraz coś nad czym najbardziej ubolewam, porządku w kodzie...",
+    "greatestDifficulty": "Największą trudność w tym projekcie, sprawił mi czas. Miałem bardzo zapracowany tydzień w firmie i tak na prawdę cały projekt opierał się na jednym maratonie. Oprócz tego, częściowo głowiłem się nad tym jak zapewnić możliwość wklejenia gotowego linku do przeglądarki, tak aby przeniosło nas do tych samych wyników jak osobę, która nam ten link wysłała.",
+    "greatestFun": "Największą frajdę również sprawił mi maraton. Od zera do bohatera w tak krótkim czasie to całkiem fajne osiągnięcie. Pierwszy raz skorzystałem również z biblioteki i18n co pokazało mi jej ogromny potencjał."
+  },
+  "category": {
+    "general": "Ogólne",
+    "business": "Biznes",
+    "entertainment": "Rozrywka",
+    "science": "Nauka",
+    "health": "Zdrowie",
+    "sports": "Sport",
+    "technology": "Technologie"
+  }
+}
